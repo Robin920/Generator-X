@@ -1,10 +1,11 @@
 import React from 'react';
 import './Header.css';
+import LogoHeader from 'd:/React/Generator X/src/logoHeader.svg';
 
 const Header = ({titletext,headerExpand}) => {
     return (
         <div className="head-container">
-            <img src="https://user-images.githubusercontent.com/26179770/106359099-693e3380-6336-11eb-8069-9e36f25de5ca.png"
+            <img src={LogoHeader} 
             alt="Headerimage" 
 
             className={`head-image ${

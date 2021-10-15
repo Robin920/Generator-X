@@ -1,9 +1,10 @@
 .name-card-container {
     color: aliceblue;
-    background: cornflowerblue;
+    background: #87CEEB;
     margin: 10px 15px;
     padding: 10px 20px;
-    min-width: 75px;
+    min-width: 95px;
+    min-height: 25px;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(255 255 255 0.1);
     transition: background 0.35s;
@@ -19,6 +20,7 @@
 .name-card {
     font-weight: 100;
     margin: 0;
+    font-size: 28px;
     font-family: monospace;
 }
 
