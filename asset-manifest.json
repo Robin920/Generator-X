@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Generator-X/static/css/main.71e7ca74.chunk.css",
+    "main.js": "/Generator-X/static/js/main.9b0e8c77.chunk.js",
+    "main.js.map": "/Generator-X/static/js/main.9b0e8c77.chunk.js.map",
+    "runtime-main.js": "/Generator-X/static/js/runtime-main.97cca5e7.js",
+    "runtime-main.js.map": "/Generator-X/static/js/runtime-main.97cca5e7.js.map",
+    "static/js/2.45fdb6a8.chunk.js": "/Generator-X/static/js/2.45fdb6a8.chunk.js",
+    "static/js/2.45fdb6a8.chunk.js.map": "/Generator-X/static/js/2.45fdb6a8.chunk.js.map",
+    "static/js/3.eb3dd291.chunk.js": "/Generator-X/static/js/3.eb3dd291.chunk.js",
+    "static/js/3.eb3dd291.chunk.js.map": "/Generator-X/static/js/3.eb3dd291.chunk.js.map",
+    "index.html": "/Generator-X/index.html",
+    "static/css/main.71e7ca74.chunk.css.map": "/Generator-X/static/css/main.71e7ca74.chunk.css.map",
+    "static/js/2.45fdb6a8.chunk.js.LICENSE.txt": "/Generator-X/static/js/2.45fdb6a8.chunk.js.LICENSE.txt",
+    "static/media/logoHeader.cd47586c.svg": "/Generator-X/static/media/logoHeader.cd47586c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97cca5e7.js",
+    "static/js/2.45fdb6a8.chunk.js",
+    "static/css/main.71e7ca74.chunk.css",
+    "static/js/main.9b0e8c77.chunk.js"
+  ]
+}
