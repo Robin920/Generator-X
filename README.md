@@ -1,6 +1,11 @@
 My first React based application which is a name suggestion application which can be used to generate names for anything like Your startup, pet name etc. Based on the keywords provided by you and it will also assist you in checking if that domain name exist as well as let you buy it in just one click! from Namecheap.com ,give it a try THANKS FOR READING.
 
 
+## Screen-Shots
+![](https://github.com/Robin920/Generator-X/blob/master/screenShot/Screenshot%20(8).png)
+
+
+![](https://github.com/Robin920/Generator-X/blob/master/screenShot/Screenshot%20(9).png)
 ## Available Scripts
 
 In the project directory, you can run:
